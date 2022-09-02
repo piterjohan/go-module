@@ -1,3 +1,3 @@
-module github.com/piterjohan/go-module
+module github.com/piterjohan/module-golang
 
 go 1.15
